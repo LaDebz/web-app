@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Dev Consults Releases Nexus Repository</name>
-	      <url>http://172.31.12.154:8081/repository/rbc-release/</url>
+	      <url>http://172.31.12.154:6010/repository/rbc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Dev Consults Snapshot Nexus Repository </name>
-	      <url>http://172.31.12.154:6006/repository/rbc-snapshot/</url>
+	      <url>http://172.31.12.154:6010/repository/rbc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
